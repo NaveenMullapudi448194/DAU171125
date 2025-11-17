@@ -3,5 +3,5 @@ educational support materials for the Data Analysis module
 
 # Task list
 - [x] Creating the repo
-- [ ] Adding readme
-- [ ] Committing changes
+- [x] Adding readme
+- [x] Committing changes
